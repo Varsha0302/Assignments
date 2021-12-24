@@ -13,7 +13,7 @@ public class operaters {
 		
 		System.out.println("a&b ="  +(a&b));
 		System.out.println("c&d ="  +(c&d));
-		System.out.println("e&f =" +(a&b));
+		System.out.println("e&f =" +(e&f));
 		
 		System.out.println("a|b ="  +(a|b));
 		System.out.println("c|d ="  +(c|d));
